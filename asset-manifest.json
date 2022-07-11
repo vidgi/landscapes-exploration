@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landscapes-exploration/static/css/main.f422bed4.css",
-    "main.js": "/landscapes-exploration/static/js/main.12884128.js",
+    "main.js": "/landscapes-exploration/static/js/main.e9c8db7f.js",
     "static/js/787.2f67d8c3.chunk.js": "/landscapes-exploration/static/js/787.2f67d8c3.chunk.js",
     "static/media/11.jpeg": "/landscapes-exploration/static/media/11.d4222a75c4bd905b155d.jpeg",
     "static/media/10.jpeg": "/landscapes-exploration/static/media/10.6356b05c467bd685ba9f.jpeg",
@@ -17,11 +17,11 @@
     "static/media/13.jpeg": "/landscapes-exploration/static/media/13.af235deb3789f43c57b1.jpeg",
     "index.html": "/landscapes-exploration/index.html",
     "main.f422bed4.css.map": "/landscapes-exploration/static/css/main.f422bed4.css.map",
-    "main.12884128.js.map": "/landscapes-exploration/static/js/main.12884128.js.map",
+    "main.e9c8db7f.js.map": "/landscapes-exploration/static/js/main.e9c8db7f.js.map",
     "787.2f67d8c3.chunk.js.map": "/landscapes-exploration/static/js/787.2f67d8c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f422bed4.css",
-    "static/js/main.12884128.js"
+    "static/js/main.e9c8db7f.js"
   ]
 }
