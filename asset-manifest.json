@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/landscapes-exploration/static/css/main.f422bed4.css",
+    "main.js": "/landscapes-exploration/static/js/main.12884128.js",
+    "static/js/787.2f67d8c3.chunk.js": "/landscapes-exploration/static/js/787.2f67d8c3.chunk.js",
+    "static/media/11.jpeg": "/landscapes-exploration/static/media/11.d4222a75c4bd905b155d.jpeg",
+    "static/media/10.jpeg": "/landscapes-exploration/static/media/10.6356b05c467bd685ba9f.jpeg",
+    "static/media/8.jpeg": "/landscapes-exploration/static/media/8.cdbe50b2bbb68e014cdc.jpeg",
+    "static/media/1.jpeg": "/landscapes-exploration/static/media/1.c7b689e0c25e24cf2820.jpeg",
+    "static/media/4.jpeg": "/landscapes-exploration/static/media/4.640110648261fe9da654.jpeg",
+    "static/media/2.jpeg": "/landscapes-exploration/static/media/2.9a266153bafed22e947e.jpeg",
+    "static/media/9.jpeg": "/landscapes-exploration/static/media/9.db45eabc14dca8e65931.jpeg",
+    "static/media/12.jpeg": "/landscapes-exploration/static/media/12.d5899c6b3b268813fdaa.jpeg",
+    "static/media/5.jpeg": "/landscapes-exploration/static/media/5.02514ea635c9e6066bba.jpeg",
+    "static/media/6.jpeg": "/landscapes-exploration/static/media/6.635f49fddaa489bac6b0.jpeg",
+    "static/media/7.jpeg": "/landscapes-exploration/static/media/7.7c8dff88006f1254be5f.jpeg",
+    "static/media/13.jpeg": "/landscapes-exploration/static/media/13.af235deb3789f43c57b1.jpeg",
+    "index.html": "/landscapes-exploration/index.html",
+    "main.f422bed4.css.map": "/landscapes-exploration/static/css/main.f422bed4.css.map",
+    "main.12884128.js.map": "/landscapes-exploration/static/js/main.12884128.js.map",
+    "787.2f67d8c3.chunk.js.map": "/landscapes-exploration/static/js/787.2f67d8c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f422bed4.css",
+    "static/js/main.12884128.js"
+  ]
+}
